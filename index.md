@@ -2,9 +2,10 @@
 
 - NEW: Recently opened file list to record the history of local projects
 - NEW: UV Support proportional adjustment
+- NEW: Light source batch adjustment
+
 - Add: Hold Ctrl to select multiple elements in the resource list
 - Add: Select multiple elements and group them. Shortcut key ：Ctrl + G
-- NEW: Light source batch adjustment
 
 - Optimization: Light source parameters
 - Optimization: Assets library window adaptive scaling
