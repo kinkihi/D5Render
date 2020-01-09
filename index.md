@@ -1,4 +1,4 @@
-# Version 1.4.0  [Download](https://github.com/kinkihi/D5Render/releases/download/1.4.0/Bridge.dmg)
+#   [Download Version 1.4.0](https://github.com/kinkihi/D5Render/releases/download/1.4.0/Bridge.dmg)
 
 ### 1.4.0 Update
 
