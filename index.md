@@ -1,4 +1,6 @@
-## 1.4.0 Update
+# Version 1.4.0  [Download](https://github.com/kinkihi/D5Render/releases/download/1.4.0/Bridge.dmg)
+
+### 1.4.0 Update
 
 - **NEW**: Recently opened file list to record the history of local projects
 - **NEW**: UV Support proportional adjustment
