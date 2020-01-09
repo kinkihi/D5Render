@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 1.4.0 Update
 
-You can use the [editor on GitHub](https://github.com/kinkihi/D5Render/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- NEW: Recently opened file list to record the history of local projects
+- NEW: UV Support proportional adjustment
+- Add: Hold Ctrl to select multiple elements in the resource list
+- Add: Select multiple elements and group them. Shortcut key ：Ctrl + G
+- NEW: Light source batch adjustment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Optimization: Light source parameters
+- Optimization: Assets library window adaptive scaling
+- Optimization: Default HDR location map
+- Optimization: Use experience of rotation shaft
+- Optimization: Artificial light source effect
+- Optimization: Update window
+- Optimization: Save scenario parameters
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kinkihi/D5Render/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Repair: White mold effect
+- Repair: Volume light effect
